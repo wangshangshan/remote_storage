@@ -24,10 +24,10 @@ int main(int argc, char *argv[])
 {
   int i =0;
 
-  printf("\n hhhhhhhhhhhhhhhh\n");
+  
   printf("this is the sub_branch code \n");
  
-  printf(" sub_branch add new");
+  
  
   return 1;
 

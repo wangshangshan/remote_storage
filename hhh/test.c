@@ -29,6 +29,8 @@ int main(int argc, char *argv[])
  
   
  
+  printf("sub_branch add stash \n");
+
   return 1;
 
 

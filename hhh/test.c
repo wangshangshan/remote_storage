@@ -28,7 +28,7 @@ int main(int argc, char *argv[])
   printf("this is the master code \n");
  
   printf(" master add new");
- 
+
   return 1;
 
 
